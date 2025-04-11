@@ -1,6 +1,4 @@
-# Fernando Garcia-Gonzalez
-
-### Marine Ecology & Geospatial Data
+# Marine Ecology & Geospatial Data
 
 My research aims at bridging the gap between optical remote sensing and applied marine ecology by developing novel techniques to map underwater ecosystems, with a particular focus on macroalgal forests and seagrass meadows. The resulting cartographies represent the extent and cofiguration of key habitats, supporting the analysis of underwater landscapes, ecological status assesments, and the detection of early signs of ecosystem degradation or collapse.
 
