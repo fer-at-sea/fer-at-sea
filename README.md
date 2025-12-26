@@ -1,6 +1,8 @@
 # Marine Ecology & Geospatial Data
 
-My research aims at bridging the gap between optical remote sensing and applied marine ecology by developing novel techniques to map underwater ecosystems, with a particular focus on macroalgal forests and seagrass meadows. The resulting cartographies represent the extent and cofiguration of key habitats, supporting the analysis of underwater landscapes, ecological status assesments, and the detection of early signs of ecosystem degradation or collapse.
 
-I take a multiscale approach, integrating 3D underwater models with UAS and satellite imagery. To transform raw imagery to ecosystem maps, I apply a range of classification methods: from manual digitalization and classic machine learning algorithms to deep learning techniques. I particularly emphasize the critical role of high-accuracy field data to validate AI-driven outputs. As a result, my work spans the full research pipeline: from image acquisition and code development to precise in situ habitat validation in both intertidal and subtidal environments.
+My work lies at the interface between optical remote sensing and applied marine ecology, focusing on methods to map coastal and underwater ecosystems, with emphasis on macroalgal forests and seagrass meadows.
+
+I adopt a multiscale perspective, integrating 3D underwater models, UAS imagery, and satellite data. From these sources, habitats map are generated using a range of approaches, from manual digitisation and classical machine-learning methods to more recent deep-learning techniques. A central component of my work is the collection of high-quality field data, in both intertidal and subtidal environments, to assess and interpret model outputs and map quality.
+
 
