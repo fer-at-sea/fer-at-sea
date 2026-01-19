@@ -1,4 +1,4 @@
-# Marine Ecology & Geospatial Data
+# Marine Ecology & Geospatial Data Analysis
 
 
 My work lies at the interface between optical remote sensing and applied marine ecology, focusing on methods to map coastal and underwater ecosystems, with emphasis on macroalgal forests and seagrass meadows.
